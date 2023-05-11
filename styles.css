@@ -6,7 +6,7 @@
     font-family: sans-serif;
 }
 
-#nav-bar ul li{
+#nav-bar li{
     display: inline;
 	margin-right: 1rem;
 	list-style: none;
