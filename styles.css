@@ -6,13 +6,13 @@
     font-family: sans-serif;
 }
 
-#navbar ul li{
+#nav-bar ul li{
     display: inline;
 	margin-right: 1rem;
 	list-style: none;
 } 
 
-#navbar {
+#nav-bar {
    padding: 10px;
    background-color: #D3D3D3;
 } 
