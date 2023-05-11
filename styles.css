@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#navbar ul li{
+    display: inline;
+	margin-right: 1rem;
+	list-style: none;
+} 
+
+#navbar {
+   padding: 10px;
+   background-color: #D3D3D3;
+} 
